@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a02b7dbb.chunk.css",
+    "main.js": "/static/js/main.ecee11ec.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.c1483060.js",
+    "static/js/2.f58cbe24.chunk.js": "/static/js/2.f58cbe24.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.7238e8eede395703d1d371253f41c75f.js": "/precache-manifest.7238e8eede395703d1d371253f41c75f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/Exam.png": "/static/media/Exam.da598869.png",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
+    "static/media/examAndroid.png": "/static/media/examAndroid.93c656a1.png",
+    "static/media/locallibrary.png": "/static/media/locallibrary.9ce8783c.png",
+    "static/media/manOnTable.52be3144.svg": "/static/media/manOnTable.52be3144.52be3144.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1483060.js",
+    "static/js/2.f58cbe24.chunk.js",
+    "static/css/main.a02b7dbb.chunk.css",
+    "static/js/main.ecee11ec.chunk.js"
+  ]
+}
